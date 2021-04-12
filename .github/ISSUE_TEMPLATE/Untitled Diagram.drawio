@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T06:18:14.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.75" etag="yuKsN0wxjll3cvQ4sJTH" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-12T17:15:28.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.75" etag="c2SqSJ5LhnkMy55ZdbPd" version="14.5.10" type="github">
   <diagram id="PEgndeJF35uo4z62GtRo" name="Page-1">
-    <mxGraphModel dx="1888" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2128" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,21 +44,16 @@
         <mxCell id="aKEwGKDzat3nbrvRopo1-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.357;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aKEwGKDzat3nbrvRopo1-11" target="aKEwGKDzat3nbrvRopo1-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aKEwGKDzat3nbrvRopo1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aKEwGKDzat3nbrvRopo1-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint y="840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aKEwGKDzat3nbrvRopo1-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aKEwGKDzat3nbrvRopo1-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="860" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aKEwGKDzat3nbrvRopo1-11" value="Jenkins&lt;br&gt;BamBoo&lt;br&gt;CircleCI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aKEwGKDzat3nbrvRopo1-12" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Build Servers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-165" y="660" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aKEwGKDzat3nbrvRopo1-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aKEwGKDzat3nbrvRopo1-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="715" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aKEwGKDzat3nbrvRopo1-14" value="SonarQube Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="680" width="120" height="70" as="geometry" />
@@ -69,58 +64,35 @@
         <mxCell id="aKEwGKDzat3nbrvRopo1-17" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Code Quality" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="191" y="660" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aKEwGKDzat3nbrvRopo1-25" value="Jfrog Artifactory&lt;br&gt;Nexus Artifactory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="840" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aKEwGKDzat3nbrvRopo1-27" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Artifactory Management Tools" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-205" y="910" width="290" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="aKEwGKDzat3nbrvRopo1-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aKEwGKDzat3nbrvRopo1-29">
+        <mxCell id="aKEwGKDzat3nbrvRopo1-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aKEwGKDzat3nbrvRopo1-44">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="890" as="targetPoint" />
+            <mxPoint x="360" y="715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aKEwGKDzat3nbrvRopo1-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="aKEwGKDzat3nbrvRopo1-29">
+        <mxCell id="aKEwGKDzat3nbrvRopo1-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aKEwGKDzat3nbrvRopo1-44">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="810" as="targetPoint" />
+            <mxPoint x="560" y="715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aKEwGKDzat3nbrvRopo1-29" value="Ansible&lt;br&gt;Chef&lt;br&gt;Puppet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="860" width="120" height="60" as="geometry" />
+        <mxCell id="aKEwGKDzat3nbrvRopo1-44" value="Selenium Test Suites" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="685" width="115" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aKEwGKDzat3nbrvRopo1-30" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Configuration Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="920" width="240" height="20" as="geometry" />
+        <mxCell id="aKEwGKDzat3nbrvRopo1-46" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Continuous Testing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="660" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aKEwGKDzat3nbrvRopo1-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aKEwGKDzat3nbrvRopo1-32">
+        <mxCell id="aKEwGKDzat3nbrvRopo1-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aKEwGKDzat3nbrvRopo1-52">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="425" y="990" as="targetPoint" />
+            <mxPoint x="620" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aKEwGKDzat3nbrvRopo1-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aKEwGKDzat3nbrvRopo1-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="425" y="760" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="aKEwGKDzat3nbrvRopo1-52" value="JFrog&lt;br&gt;Nexus&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="685" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aKEwGKDzat3nbrvRopo1-32" value="&lt;br&gt;Docker Images&lt;br&gt;Docker Containers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="850" width="120" height="70" as="geometry" />
+        <mxCell id="aKEwGKDzat3nbrvRopo1-53" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Artifactory Tools" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="660" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aKEwGKDzat3nbrvRopo1-33" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Docker" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="930" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="aKEwGKDzat3nbrvRopo1-35" value="DockerHub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="990" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aKEwGKDzat3nbrvRopo1-37" value="ECS&lt;br&gt;EKS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="690" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aKEwGKDzat3nbrvRopo1-39" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Ansible Scripts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="165" y="800" width="250" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="aKEwGKDzat3nbrvRopo1-40" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Deployments" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="710" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="aKEwGKDzat3nbrvRopo1-41" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Orchestration Tools" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="660" width="200" height="20" as="geometry" />
+        <mxCell id="aKEwGKDzat3nbrvRopo1-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
